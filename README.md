@@ -18,17 +18,17 @@ I am a MERN Stack Developer who is passionate about stuff like Back-end & Front-
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;\
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)\\
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics\
 
 <p align="center">
 <a href="https://github.com/stephenas">
@@ -36,8 +36,8 @@ I am a MERN Stack Developer who is passionate about stuff like Back-end & Front-
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stephenas&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
-
-### 🤝🏻 &nbsp;Connect with Me
+\
+### 🤝🏻 &nbsp;Connect with Me\
 
 <p align="center">
 <a href="https://www.stephanraj.com"><img src="https://img.shields.io/badge/-stephanraj.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
