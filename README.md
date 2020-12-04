@@ -9,7 +9,9 @@ I am a MERN Stack Developer who is passionate about stuff like Back-end & Front-
 - 💬 Feel free to reach out to me for developing a clone and volunteering, or just for some interesting discussion.
 - ✉️ You can shoot me an email at stevestephenas7@gmail.com I'll try to respond as soon as I can.
 
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -27,7 +29,9 @@ I am a MERN Stack Developer who is passionate about stuff like Back-end & Front-
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)\
-\
+
+
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -37,7 +41,8 @@ I am a MERN Stack Developer who is passionate about stuff like Back-end & Front-
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stephenas&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
-\
+
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
