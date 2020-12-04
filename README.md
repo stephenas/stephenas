@@ -40,10 +40,7 @@ I am a MERN Stack Developer who is passionate about stuff like Back-end & Front-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.stephanraj.com"><img src="https://cdn.pixabay.com/photo/2016/11/30/17/10/web-1873373_1280.png"/></a>
-<a href="https://www.linkedin.com/in/stephenas/"><img src="https://icons-for-free.com/iconfiles/png/512/linkedin+logo+service+social+web+website+icon-1320192780023588708.png"/></a>
-<a href="mailto:stevestephenas7@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat-square&logo=Behance&logoColor=white"/></a>
+<a href="https://www.stephanraj.com"><img src="https://img.shields.io/badge/-stephanraj.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/stephenas/"><img src="https://img.shields.io/badge/-Stephanraj-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:stevestephenas7@gmail.com"><img src="https://img.shields.io/badge/-stevestephenas7@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
