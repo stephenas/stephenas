@@ -26,9 +26,10 @@ I am a MERN Stack Developer who is passionate about stuff like Back-end & Front-
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)\\
+![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)\
+\
 
-### ⚙️ &nbsp;GitHub Analytics\
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/stephenas">
@@ -37,7 +38,7 @@ I am a MERN Stack Developer who is passionate about stuff like Back-end & Front-
 </a>
 </p>
 \
-### 🤝🏻 &nbsp;Connect with Me\
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://www.stephanraj.com"><img src="https://img.shields.io/badge/-stephanraj.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
