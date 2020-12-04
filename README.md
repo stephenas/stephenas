@@ -35,7 +35,7 @@ I am a MERN Stack Developer who is passionate about stuff like Back-end & Front-
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p>
 <a href="https://github.com/stephenas">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=stephenas&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stephenas&layout=compact&langs_count=8&theme=react"/>
@@ -45,7 +45,7 @@ I am a MERN Stack Developer who is passionate about stuff like Back-end & Front-
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p>
 <a href="https://www.stephanraj.com"><img src="https://img.shields.io/badge/-stephanraj.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/stephenas/"><img src="https://img.shields.io/badge/-Stephanraj-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:stevestephenas7@gmail.com"><img src="https://img.shields.io/badge/-stevestephenas7@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
