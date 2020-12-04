@@ -13,7 +13,7 @@ I am a MERN Stack Developer who is passionate about stuff like Back-end & Front-
 
 ### 🛠 &nbsp;Tech Stack
 
-![ReactJS](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png)&nbsp;
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
@@ -42,5 +42,8 @@ I am a MERN Stack Developer who is passionate about stuff like Back-end & Front-
 <p align="center">
 <a href="https://www.stephanraj.com"><img src="https://cdn.pixabay.com/photo/2016/11/30/17/10/web-1873373_1280.png"/></a>
 <a href="https://www.linkedin.com/in/stephenas/"><img src="https://icons-for-free.com/iconfiles/png/512/linkedin+logo+service+social+web+website+icon-1320192780023588708.png"/></a>
-<a href="mailto:stevestephenas7@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png"/></a>
+<a href="mailto:stevestephenas7@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat-square&logo=Behance&logoColor=white"/></a>
 </p>
