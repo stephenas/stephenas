@@ -37,8 +37,8 @@ I am a MERN Stack Developer who is passionate about stuff like Back-end & Front-
 
 <p align="center">
 <a href="https://github.com/stephenas">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=stephenas&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stephenas&layout=compact&langs_count=8&theme=react"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=stephenas&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stephenas&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
 
